@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnBasiKpURF9ZKi7oyilCtJBv0v0duT9elbg&s" alt="photos" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnBasiKpURF9ZKi7oyilCtJBv0v0duT9elbg&s" alt="photos" width="512" height="210"/>
 <h1>Salut 👋, Je suis john777671</h1>
 <p>Développeur web débutant</p>
 <h2>🚀 Languages and Tools I Use</h2>
